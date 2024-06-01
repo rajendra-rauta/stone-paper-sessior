@@ -21,8 +21,6 @@ const drawGame = () => {
 
     
     
-
-
 };
 
 const showWinner = (userWin, userChoice , compChoice) => {
