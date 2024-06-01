@@ -15,9 +15,12 @@ const genCompChoice = () => {
     // rock,paper,scissers
 }
 
+const drawGame = () => {
+    msg.innerHTML = "game was draw. pay again!";
+    msg.style.backgroundColor = "#081b31";
 
 
-
+    
 
 
 };
